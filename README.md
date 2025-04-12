@@ -17,3 +17,4 @@ Here are some ideas to get you started:
 
 [![SukhadxTomar's GitHub stats](https://github-readme-stats.vercel.app/api?username=SukhadxTomar)](https://github.com/SukhadxTomar/github-readme-stats)  
 [![GitHub Streak](https://streak-stats.demolab.com?user=SukhadxTomar&theme=dark&hide_border=false)](https://git.io/streak-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SukhadxTomar&layout=compact&theme=react&hide_border=false&langs_count=8)
