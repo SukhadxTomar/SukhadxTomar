@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=900&size=48&duration=2500&pause=1000&color=00F7FF&vCenter=true&width=950&lines=Hi+%F0%9F%91%8B%2C+I'm+Sukhad+Tomar;AI%2FML+Engineer;Generative+AI+Developer;LLM+%7C+RAG+%7C+Data+Analyst" alt="Typing SVG" />
 </p>
 
-# 🤖 AI/ML Engineer | Generative AI | LLM | Data Analyst
+#  AI/ML Engineer | Generative AI | LLM | Data Analyst
 
 Passionate about building production-ready AI systems using Large Language Models, Retrieval-Augmented Generation (RAG), LangChain, LangGraph, FastAPI, Machine Learning, and Data Analytics.
 
@@ -24,19 +24,19 @@ Passionate about building production-ready AI systems using Large Language Model
 
 ---
 
-# 🚀 About Me
+#  About Me
 
 <img width="1536" height="1024" src="YOUR_BANNER_IMAGE"/>
 
-- 🤖 AI/ML Engineer passionate about solving real-world problems with AI.
-- 🧠 Building production-grade LLM & RAG applications.
-- 📊 Strong background in Machine Learning and Data Analytics.
-- ⚡ Love designing scalable AI architectures using LangGraph & FastAPI.
-- 📚 Always exploring new advancements in Generative AI.
+-  AI/ML Engineer passionate about solving real-world problems with AI.
+-  Building production-grade LLM & RAG applications.
+-  Strong background in Machine Learning and Data Analytics.
+-  Love designing scalable AI architectures using LangGraph & FastAPI.
+-  Always exploring new advancements in Generative AI.
 
 ---
 
-## 📈 GitHub Stats
+## GitHub Stats
 
 <p>
 
@@ -48,7 +48,7 @@ Passionate about building production-ready AI systems using Large Language Model
 
 ---
 
-# 🛠️ Tech Stack
+# Tech Stack
 
 <p>
 
@@ -56,7 +56,7 @@ Passionate about building production-ready AI systems using Large Language Model
 
 </p>
 
-## 🤖 Generative AI
+##  Generative AI
 
 - Large Language Models (LLMs)
 - Retrieval-Augmented Generation (RAG)
@@ -69,7 +69,7 @@ Passionate about building production-ready AI systems using Large Language Model
 
 ---
 
-## 🧠 Machine Learning
+##  Machine Learning
 
 - Machine Learning
 - Deep Learning
@@ -82,7 +82,7 @@ Passionate about building production-ready AI systems using Large Language Model
 
 ---
 
-## 📊 Data Analytics
+##  Data Analytics
 
 - Python
 - Pandas
@@ -95,7 +95,7 @@ Passionate about building production-ready AI systems using Large Language Model
 
 ---
 
-## ⚙ Backend
+##  Backend
 
 - FastAPI
 - Pydantic
@@ -105,7 +105,7 @@ Passionate about building production-ready AI systems using Large Language Model
 
 ---
 
-## 🗄 Databases & Retrieval
+##  Databases & Retrieval
 
 - MySQL
 - FAISS
@@ -115,9 +115,9 @@ Passionate about building production-ready AI systems using Large Language Model
 
 ---
 
-# 🚀 Featured Projects
+#  Featured Projects
 
-## 🤖 OrchestrAI (AutoDev AI)
+## OrchestrAI (AutoDev AI)
 
 - Autonomous Multi-Agent Software Engineering Platform
 - LangGraph Agent Orchestration
@@ -132,7 +132,7 @@ Python • LangGraph • LangChain • FastAPI • Docker • FAISS
 
 ---
 
-## 📄 TailorCV AI
+## TailorCV AI
 
 - AI Resume Tailoring Platform
 - ATS Score Analyzer
@@ -146,7 +146,7 @@ Python • FastAPI • LangGraph • OpenRouter • pytest
 
 ---
 
-## 📚 DocIntel AI
+## DocIntel AI
 
 - Hybrid Retrieval-Augmented Generation Platform
 - Multi-PDF Question Answering
@@ -159,7 +159,7 @@ Python • LangChain • FAISS • Gemini • Streamlit
 
 ---
 
-## 📈 Customer Churn Prediction
+## Customer Churn Prediction
 
 - Machine Learning Pipeline
-- Customer Seg
+- Customer Segmentation 
