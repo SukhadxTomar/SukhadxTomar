@@ -6,8 +6,8 @@ Ai Engineer
 
 I have around 1 year of experience working as an AI Engineer, where I’ve worked on building and improving AI-powered solutions using Python, Generative AI, LLMs, RAG, and AI agents. I’ve worked with tools and frameworks such as LangChain and LangGraph and have hands-on experience with prompt engineering, embeddings, vector databases, and API integration. Alongside my professional experience, I’ve built projects around LLM-based applications, RAG pipelines, and intelligent AI agents, which helped me gain practical experience in designing and deploying AI solutions. I enjoy working on real-world problems and continuously exploring new developments in AI and Generative AI
 
-* 🌍  I'm based in India
-* ✉️  You can contact me at [sukhadtomar@gmail.com](mailto:sukhadtomar@gmail.com)
+*  I'm based in India
+*  You can contact me at [sukhadtomar@gmail.com](mailto:sukhadtomar@gmail.com)
 
 ### Badges
 
